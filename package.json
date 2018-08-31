@@ -1,0 +1,22 @@
+{
+  "name": "mytravelapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XigniteX666/myTravelApp.git"
+  },
+  "author": "Oskar Albers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XigniteX666/myTravelApp/issues"
+  },
+  "homepage": "https://github.com/XigniteX666/myTravelApp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
